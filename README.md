@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Herbert Duarte ()
+Herbert Duarte (202311190025@ifba.edu.br)
 
 ## Descrição
 
