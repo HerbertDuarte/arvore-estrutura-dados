@@ -7,6 +7,7 @@ Guilherme France (202511190039@ifba.edu.br)
 Gustavo de Diego Garrido (202511190029@ifba.edu.br)
 Fábio Alves (202511190044@ifba.edu.br)
 Erica Menezes (202511190030@ifba.edu.br)
+Calil Soares (202421190037@ifba.edu.br)
 
 
 ## Descrição
